@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/lpHPFVpk65qpbH2XY5/giphy.gif" style="width: 100%; object-fit: contain; height:245px;">
   <h1> Hi there, I'm Jefrina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 </div>
 
